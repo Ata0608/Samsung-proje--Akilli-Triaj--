@@ -24,7 +24,7 @@ pencere.geometry("1800x1600")
 
 
 hasta_sikayet= Label(pencere,text="Hastanın şikayetleri:",font=font)
-hasta_sikayet.place(x=0,y=90)
+hasta_sikayet.place(x=0,y=160)
 
 isim= Label(pencere,text="Hastanın ismi: ",font=font)
 isim.place(x=0,y=0)
@@ -36,12 +36,12 @@ cinsiyet = Label(pencere,text="Hastanın cinsiyeti: ",font=font)
 cinsiyet.place(x=700,y=0)
 
 corona_durumu= Label(pencere,text="Hastanın korona olma ihtimali: ",font=font)
-corona_durumu.place(x=400,y=60)
+corona_durumu.place(x=0,y=60)
 
 hasta_genel_durum = Label(pencere,text="Hastanın genel durumu:",font=font)
 hasta_genel_durum.place(x=1100,y=0)
 
-durum= Label(pencere,height=9,width=24,bg="white")
+durum= Label(pencere,height=2,width=24,bg="white")
 durum.place(x=1400,y=0)
 
 
@@ -69,17 +69,23 @@ def haber():
                 pencere.deiconify()
                 veri = data.replace("[", "").replace("]", "").replace('"', "")
                 liste = [i.strip() for i in veri.split(",")]
+
                 isim.config(text="Hastanın ismi: " + liste[0])
                 yas.config(text="Hastanın yaşı: "+liste[1])
                 cinsiyet.config(text="Hastanın cinsiyeti: "+liste[2])
 
 
+
                 if liste[3]== "2" or liste[5] == "2":
                     durum.config(bg="red")
-                elif liste[3]!= "2" or liste[5] != "2" and liste[4] == "3" or liste[6]== "3":
+                elif liste[4] == "3" or liste[6]== "3":
                     durum.config(bg="yellow")
                 else:
                     durum.config(bg="green")
+                if liste[7] == "1" or liste[8] == "1" or liste[9] == "1" or liste[10] == "1" or liste[11] == "1" or liste[12] == "1" or liste[13] =="1" :
+                    corona_durumu.config(text="Hastanın korona olma ihtimali: Yüksek ")
+                else:
+                    corona_durumu.config(text="Hastanın korona olma ihtimali: ")
 
 
 
