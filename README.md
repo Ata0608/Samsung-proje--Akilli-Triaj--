@@ -1,1 +1,1 @@
-# Samsung-proje--Ak-ll-Triaj
+# Samsung-proje--Akilli-Triaj
