@@ -8,10 +8,11 @@ Akıllı triaj uygulaması ile sağlık çalışanlarının yükünün hafifleti
 pip install opencv-python
 ```
 
+## Ekran Resimleri
 
 
-  
-  
-  
+
+
+##Kodlandığı Platform
 
 
