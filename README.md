@@ -40,7 +40,7 @@ Telefondaki uygulama prototip aşamasında olduğu için emulator yardımı ile 
 
 
 ### 1. Telefonunuza MIT AI2 Companion App'i indirin
-App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** uygulamasını indirin:
+App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** uygulamasını telefonunuza indirin:
 
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/1.ad%C4%B1m.png)
 
