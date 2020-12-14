@@ -15,4 +15,6 @@ pip install opencv-python
 
 ## Kodlandığı Platform
 
+• Pycharm
+
 
