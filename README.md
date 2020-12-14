@@ -16,8 +16,11 @@ pip install opencv-python
 
 Bu kütüphane indirildikten sonra kod çalıştırılabilir.
 
+
+
 ## Telefon uygulamasının çalıştırılması
 Telefondaki uygulama prototip aşamasında olduğu için emualtor yardımı ile çalıştırılabiliyor. Bunu yapmak için:
+
 
 ### 1. Telefonunuza MIT AI2 Companion App'i indirin
 App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** uygulamasını indirin:
