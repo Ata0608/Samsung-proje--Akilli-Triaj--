@@ -70,3 +70,11 @@ Sol üstteki **"Connect"** seçeneğine basın:
 
 
 
+## Bilgisayar kodunu çalıştırılması:
+
+Sağ alttaki **"Yeni Hasta"** butonuna basarak doktor yeni hasta için uygulamayı hazır duruma getirir. 
+
+
+
+
+
