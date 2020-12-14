@@ -12,9 +12,26 @@ Doktorlar için tasarlanan uygulamanın çalışması için öncelikle 1 kütüp
 pip install opencv-python
 ```
 
-
-
 Bu kütüphane indirildikten sonra kod çalıştırılabilir.
+
+
+## Kodlandığı Platform
+
+•  Pc uygulaması: Pycharm
+ 
+
+
+• Telefon uygulaması: App Inventor 2
+
+
+## Kodlandığı Dil
+•  Pc uygulaması:Python
+
+
+
+• Telefon uygulaması: Java
+
+
 
 
 
@@ -52,19 +69,4 @@ Sol üstteki **"Connect"** seçeneğine basın:
 
 
 
-## Kodlandığı Platform
-
-•  Pc uygulaması: Pycharm
- 
-
-
-• Telefon uygulaması: App Inventor 2
-
-
-## Kodlandığı Dil
-•  Pc uygulaması:Python
-
-
-
-• Telefon uygulaması: Java
 
