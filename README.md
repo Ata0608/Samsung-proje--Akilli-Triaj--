@@ -13,6 +13,6 @@ pip install opencv-python
 
 ![](New folder/Desktop Screenshot 2020.12.11 - 08.30.35.19.png)
 
-##Kodlandığı Platform
+## Kodlandığı Platform
 
 
