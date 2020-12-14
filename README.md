@@ -34,10 +34,14 @@ App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** ile hazırla
 ### 2. App Inventor hesabına uygulamanın eklenmesi
 Dosyalara eklediğimiz **"akilli_triaj.aia"** dosyasının indirildikten sonra  **MIT App Inventor** sitesine giriş yapıldıktan sonra sol üstteki **"Projects"** kısmındaki **" Import project (.aia) from my computer"** seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz.
 
-
+![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/2.ad%C4%B1m-1.png)
+![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/2.ad%C4%B1m-2.png)
 
 ### 3.Uygulamanın telefonda kullanılması
 Projeye girdikten sonra sol üstteki **"Connect"** seçeneğinin altındaki **"AI Companion"** seçeneğine bastıktan sonra ister QR kodu okutun isterseniz de kodu yazarak uygulamamızı kullanın.
+
+![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/3.ad%C4%B1m-1.png)
+![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/3.ad%C4%B1m-2.png)
 
 
 ## Kodlandığı Platform
