@@ -52,10 +52,16 @@ Sol üstteki **"Connect"** seçeneğine basın:
 ## Kodlandığı Platform
 
 •  Pc uygulaması: Pycharm
+ 
+
+
 • Telefon uygulaması: App Inventor 2
 
 
 ## Kodlandığı Dil
 •  Pc uygulaması:Python
+
+
+
 • Telefon uygulaması: Java
 
