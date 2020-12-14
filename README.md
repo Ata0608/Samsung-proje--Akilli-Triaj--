@@ -20,7 +20,7 @@ Bu kütüphane indirildikten sonra kod çalıştırılabilir.
 Telefondaki uygulama prototip aşamasında olduğu için emualtor yardımı ile çalıştırılabiliyor. Bunu yapmak için:
 
 ### 1. Telefonunuza MIT AI2 Companion App'i indirin
-App Store ve Play Store'dan indirilebilen MIT AI2 Companion App ile hazırladğımız uygulama IOS ve Android'de çalışırılabiliyor.
+App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** ile hazırladğımız uygulama IOS ve Android'de çalışırılabiliyor.
 
 ![]
 
@@ -32,12 +32,12 @@ App Store ve Play Store'dan indirilebilen MIT AI2 Companion App ile hazırladğ�
 
 
 ### 2. App Inventor hesabına uygulamanın eklenmesi
-Dosyalara eklediğimiz "akilli_triaj.aia" dosyasının indirildikten sonra  MIT App Inventor sitesibe giriş yapıldıktan sonra sol üstteki "Projects" kısmındaki " Import project (.aia) from my computer seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz.
+Dosyalara eklediğimiz **"akilli_triaj.aia"** dosyasının indirildikten sonra  **MIT App Inventor** sitesine giriş yapıldıktan sonra sol üstteki **"Projects"** kısmındaki **" Import project (.aia) from my computer"** seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz.
 
 
 
 ### 3.Uygulamanın telefonda kullanılması
-Projeye girdikten sonra sol üstteki "Connect" seçeneğinin altındaki "AI Companion seçeneğine bastıktan sonra ister QR kodu okutun isterseniz de kodu yazarak uygulamamızı kullanın.
+Projeye girdikten sonra sol üstteki **"Connect"** seçeneğinin altındaki **"AI Companion"** seçeneğine bastıktan sonra ister QR kodu okutun isterseniz de kodu yazarak uygulamamızı kullanın.
 
 
 ## Kodlandığı Platform
