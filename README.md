@@ -3,14 +3,26 @@
 Akıllı triaj uygulaması ile sağlık çalışanlarının yükünün hafifletilmesi ve COVID-19 gibi salgınlarda hasta ile sağlık çalışanının temasını azaltarak bulaş riskini azaltmak amaçlanmıştır.
 
 ##  Pc için Gerekli Kütüphanelerin İndirilmesi
-### Doktorlar için tasarlanan uygulamanın çalışması için öncelikle 1 kütüphanenin indirilmesi gerekiyor:
+
+
+
+Doktorlar için tasarlanan uygulamanın çalışması için öncelikle 1 kütüphanenin indirilmesi gerekiyor:
 
 ```bash
 pip install opencv-python
 ```
+
+
+
 Bu kütüphane indirildikten sonra kod çalıştırılabilir.
 
 ## Telefon uygulamasının çalıştırılması
+Telefondaki uygulama prototip aşamasında olduğu için emualtor yardımı ile çalıştırılabiliyor. Bunu yapmak için:
+
+### 1. Telefonunuza MIT AI2 Companion App'i indirin
+App Store ve Play Store'dan indirilebilen MIT AI2 Companion App ile hazırladğımız uygulama IOS ve Android'de çalışırılabiliyor.
+
+![]
 
 
 
@@ -19,16 +31,22 @@ Bu kütüphane indirildikten sonra kod çalıştırılabilir.
 
 
 
+### 2. App Inventor hesabına uygulamanın eklenmesi
+Dosyalara eklediğimiz "akilli_triaj.aia" dosyasının indirildikten sonra  MIT App Inventor sitesibe giriş yapıldıktan sonra sol üstteki "Projects" kısmındaki " Import project (.aia) from my computer seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz.
 
 
+
+### 3.Uygulamanın telefonda kullanılması
+Projeye girdikten sonra sol üstteki "Connect" seçeneğinin altındaki "AI Companion seçeneğine bastıktan sonra ister QR kodu okutun isterseniz de kodu yazarak uygulamamızı kullanın.
 
 
 ## Kodlandığı Platform
 
-• Pycharm
+•  Pc uygulaması: Pycharm
+• Telefon uygulaması: App Inventor 2
 
 
 ## Kodlandığı Dil
-• Python
-
+•  Pc uygulaması:Python
+• Telefon uygulaması: Java
 
