@@ -35,7 +35,7 @@ App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** uygulamasın
 Dosyalara eklediğimiz **"akilli_triaj.aia"** dosyası indirildikten ve **MIT App Inventor** sitesine giriş yapıldıktan sonra;   
 
 Sol üstteki **"Projects"** kısmına giriyoruz:
-![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/2.ad%C4%B1m-1.png)
+![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%60uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/2.ad%C4%B1m-1.png)
 
 **" Import project (.aia) from my computer"** seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz:
 
