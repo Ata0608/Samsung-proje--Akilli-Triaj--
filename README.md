@@ -12,7 +12,7 @@ pip install opencv-python
 
 
 
-ğp
+
 ##Kodlandığı Platform
 
 
