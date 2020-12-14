@@ -63,7 +63,7 @@ Sol üstteki **"Connect"** seçeneğine basın:
 
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/3.ad%C4%B1m-1.png)
 
-**"AI Companion"** seçeneğine bastıktan sonra ister indirdiğiniz uygulamadan QR kodu okutarak isterseniz de kodu yazarak uygulamamızı kullanın:
+**"AI Companion"** seçeneğine bastıktan sonra ister indirdiğiniz uygulamadan QR kodu okutarak isterseniz de kodu yazarak uygulamamızı kullanabilirsiniz:
 
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/3.ad%C4%B1m-2.png)
 
