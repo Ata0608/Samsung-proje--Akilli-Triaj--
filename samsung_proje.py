@@ -1,7 +1,6 @@
 from tkinter import *
-from pyzbar import pyzbar
 import cv2
-from datetime import date
+
 
 font = "Times 22"
 cap = cv2.VideoCapture(0)
