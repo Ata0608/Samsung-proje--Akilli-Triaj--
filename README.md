@@ -20,7 +20,7 @@ Bu kütüphane indirildikten sonra kod çalıştırılabilir.
 Telefondaki uygulama prototip aşamasında olduğu için emualtor yardımı ile çalıştırılabiliyor. Bunu yapmak için:
 
 ### 1. Telefonunuza MIT AI2 Companion App'i indirin
-App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** ile hazırladğımız uygulama IOS ve Android'de çalışırılabiliyor.
+App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** uygulamasını indirin:
 
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/1.ad%C4%B1m.png)
 
@@ -32,15 +32,23 @@ App Store ve Play Store'dan indirilebilen **MIT AI2 Companion App** ile hazırla
 
 
 ### 2. App Inventor hesabına uygulamanın eklenmesi
-Dosyalara eklediğimiz **"akilli_triaj.aia"** dosyasının indirildikten sonra  **MIT App Inventor** sitesine giriş yapıldıktan sonra sol üstteki **"Projects"** kısmındaki **" Import project (.aia) from my computer"** seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz.
+Dosyalara eklediğimiz **"akilli_triaj.aia"** dosyası indirildikten ve **MIT App Inventor** sitesine giriş yapıldıktan sonra;   
 
+Sol üstteki **"Projects"** kısmına giriyoruz:
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/2.ad%C4%B1m-1.png)
+
+**" Import project (.aia) from my computer"** seçeneğine basarak yaptığımız uygulamanın kodlarını görebilir, uygulamamızı şimdiki bölümde anlatacağımız şekilde kullanabilirsiniz:
+
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/2.ad%C4%B1m-2.png)
 
-### 3.Uygulamanın telefonda kullanılması
-Projeye girdikten sonra sol üstteki **"Connect"** seçeneğinin altındaki **"AI Companion"** seçeneğine bastıktan sonra ister QR kodu okutun isterseniz de kodu yazarak uygulamamızı kullanın.
 
+### 3.Uygulamanın telefonda kullanılması
+Projeye girdikten sonra;  
+Sol üstteki **"Connect"** seçeneğine basın:
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/3.ad%C4%B1m-1.png)
+
+**"AI Companion"** seçeneğine bastıktan sonra ister QR kodu okutun isterseniz de kodu yazarak uygulamamızı kullanın:
+
 ![](https://github.com/Ata0608/Samsung-proje--Akilli-Triaj--/blob/main/telefon%20uygulamas%C4%B1%20ad%C4%B1mlar%C4%B1/3.ad%C4%B1m-2.png)
 
 
