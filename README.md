@@ -4,6 +4,11 @@ Akıllı triaj uygulaması ile sağlık çalışanlarının yükünün hafifleti
 
 ## Gerekli Kütüphanelerin İndirilmesi
 
-'''bash
-  pip install opencv-python
-'''
+```bash
+pip install opencv-python
+```
+  
+  
+  
+
+
